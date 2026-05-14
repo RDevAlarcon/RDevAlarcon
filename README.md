@@ -59,7 +59,7 @@ Web application focused on calisthenics and fitness management.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo_Alarcón-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-alarcon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo_Alarcón-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-alarc%C3%B3n)
 
 ---
 
@@ -76,3 +76,4 @@ Web application focused on calisthenics and fitness management.
 📍 Santiago, Chile  
 📚 Continuous learning in Data Analytics, AI and Full Stack Development  
 🚀 Building data-driven and automation-focused solutions
+
