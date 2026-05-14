@@ -63,11 +63,13 @@ Web application focused on calisthenics and fitness management.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RDevAlarcon&show_icons=true&theme=tokyonight)
+[![GitHub followers](https://img.shields.io/github/followers/RDevAlarcon?style=for-the-badge&logo=github&label=Followers)](https://github.com/RDevAlarcon?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/RDevAlarcon?style=for-the-badge&logo=github&label=Stars)](https://github.com/RDevAlarcon?tab=repositories)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDevAlarcon&layout=compact&theme=tokyonight)
+- 🔎 Explore my repositories: [github.com/RDevAlarcon?tab=repositories](https://github.com/RDevAlarcon?tab=repositories)
+- 📌 Main profile: [github.com/RDevAlarcon](https://github.com/RDevAlarcon)
 
 ---
 
@@ -76,4 +78,5 @@ Web application focused on calisthenics and fitness management.
 📍 Santiago, Chile  
 📚 Continuous learning in Data Analytics, AI and Full Stack Development  
 🚀 Building data-driven and automation-focused solutions
+
 
