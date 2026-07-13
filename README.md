@@ -1,20 +1,21 @@
 ﻿# 👋 Hola, soy Ricardo Alarcón
 
-💡 **Data Analyst & Full Stack Developer** apasionado por el análisis de datos, automatización, Machine Learning y desarrollo de soluciones tecnológicas orientadas a negocio.
+💡 **Data Analyst & Full Stack Developer** Diseño y desarrollo soluciones basadas en datos que combinan **análisis de datos, aprendizaje automático, inteligencia artificial y desarrollo *full-stack*** para resolver problemas empresariales reales.
 
 Actualmente enfocado en:
 
-- 📊 Data Analytics
-- 🤖 Machine Learning
-- ⚙️ Automatización de procesos
-- 📈 Business Intelligence
-- 🌐 Desarrollo Full Stack
+- 📊 Data Analytics & Business Intelligence
+- 🤖 Machine Learning & Deep Learning
+- 🧠 Artificial Intelligence
+- ⚙️ Process Automation
+- 🌐 Full Stack Development
+- 📱 Mobile Applications
 
 ---
 
 ## 🚀 Tech Stack
 
-### 📊 Data & Analytics
+### 📊 Data Science & Analytics
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -27,7 +28,6 @@ Actualmente enfocado en:
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
 
 ## 💻 Full Stack
 
